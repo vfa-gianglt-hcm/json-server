@@ -1,0 +1,24 @@
+{
+    "status": {
+        "timestamp": "2018-11-03T05:01:25.268Z",
+        "error_code": 0,
+        "error_message": null,
+        "elapsed": 5,
+        "credit_count": 1
+    },
+    "data": {
+        "active_cryptocurrencies": 2097,
+        "active_market_pairs": 15626,
+        "active_exchanges": 228,
+        "eth_dominance": 9.95293,
+        "btc_dominance": 53.5556,
+        "quote": {
+            "USD": {
+                "total_market_cap": 207280639415.531,
+                "total_volume_24h": 11806397955.794,
+                "last_updated": "2018-11-03T04:52:00.000Z"
+            }
+        },
+        "last_updated": "2018-11-03T04:52:00.000Z"
+    }
+}
