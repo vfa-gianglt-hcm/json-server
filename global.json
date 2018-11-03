@@ -1,5 +1,5 @@
 {
-    "data": {
+    "global": {
         "active_cryptocurrencies": 2097,
         "active_markets": 15626,
         "bitcoin_percentage_of_market_cap": 53.52,
@@ -11,6 +11,26 @@
             "EUR": {
                 "total_market_cap": 181999477691,
                 "total_volume_24h": 10302714506
+            },
+            "GBP": {
+                "total_market_cap": 159759839234,
+                "total_volume_24h": 9026316587
+            },
+            "JPY": {
+                "total_market_cap": 23463197232095,
+                "total_volume_24h": 1324838126557
+            },
+            "RUB": {
+                "total_market_cap": 13711489464013,
+                "total_volume_24h": 774377942181
+            },
+            "CNY": {
+                "total_market_cap": 1428213095335,
+                "total_volume_24h": 80660372610
+            },
+            "VND": {
+                "total_market_cap": 4818141014608891,
+                "total_volume_24h": 272165088240031
             }
         },
         "last_updated": 1541222897
