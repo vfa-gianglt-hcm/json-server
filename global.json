@@ -35,6 +35,18 @@
         },
         "last_updated": 1541222897
     },
+    "currency": {
+        "base": "USD",
+        "date": "2018-11-04",
+        "rates": {
+            "EUR": "0,87811",
+            "GBP": "0,77112",
+            "JPY": "113,19",
+            "RUB": "0.719154",
+            "CNY": "6,8911",
+            "VND": "23.335,82"
+        }
+    },
     "metadata": {
         "timestamp": 1541222199,
         "error": null
